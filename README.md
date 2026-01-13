@@ -17,27 +17,27 @@ It only changes how the page is displayed for the user — similar to dark mode,
 ---
 
 ## ✨ Features
-
-### 🧠 Clean Practice View
-- Hides faculty answers and feedback  
-- Adds a **timer** for real exam simulation  
-- Adds a **calculator button**  
-- Provides a **question palette** with navigation  
-- Color-coded question status:
-  - Attempted  
-  - Unanswered  
-  - Marked for review  
-  - Review with answer  
-
----
-
-### 🧪 Local Answer Evaluation
-- Supports **MCQ, MSQ, and NAT**
-- Accurate **multiple-correct (MSQ)** evaluation
-- Uses answer data already present in the webpage  
-- All evaluation happens locally in your browser  
-
----
+ON 1st click : The extension starts exam mode
+    ### 🧠 Clean Practice View
+    - Hides faculty answers and feedback  
+    - Adds a **timer** for real exam simulation  
+    - Adds a **calculator button**  
+    - Provides a **question palette** with navigation  
+    - Color-coded question status:
+      - Attempted  
+      - Unanswered  
+      - Marked for review  
+      - Review with answer  
+    
+    ---
+ON 2st click : The Extension end the exam and starts evaluating 
+    ### 🧪 Local Answer Evaluation
+    - Supports **MCQ, MSQ, and NAT**
+    - Accurate **multiple-correct (MSQ)** evaluation
+    - Uses answer data already present in the webpage  
+    - All evaluation happens locally in your browser  
+    
+    ---
 
 ### 🧾 Exam Analysis Report
 - Marks distribution  
