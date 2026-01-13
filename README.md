@@ -1,5 +1,11 @@
 # GATE Practice Overlay
 
+<img width="1908" height="867" alt="image" src="https://github.com/user-attachments/assets/17dab5ff-ecdb-43ce-9efa-d2b831ee23d3" />
+<img width="1904" height="851" alt="image" src="https://github.com/user-attachments/assets/c0868fab-2513-4e74-8f42-236dacafd823" />
+
+
+
+
 A lightweight Chrome Extension that enhances compatible online GATE-style question pages with a **clean practice interface and local answer evaluation**, allowing students to **re-attempt completed NPTEL-GATE mock tests** in a fresh exam-like environment.
 
 This tool runs **entirely inside the user’s browser** and does not communicate with, modify, or access any external servers.  
